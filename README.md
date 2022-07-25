@@ -7,7 +7,7 @@ Core i7 8700k
 RX570 8GB
 
 Download: 
-- Latest (RX570 version): https://github.com/toanbbpro/Hackintosh_B360M-Aorus-Pro_OpenCore/releases/tag/RX570
+- 0.8.2 - latest (RX570 version): https://github.com/toanbbpro/Hackintosh_B360M-Aorus-Pro_OpenCore/releases/tag/RX570
 - 0.8.1 (iGPU version): https://github.com/toanbbpro/Hackintosh_B360M-Aorus-Pro_OpenCore/releases/tag/iGPU
 
 Config optimized by OCAuxiliaryTools latest. Tested on MacOS 12.5 and compatibility with older versions.

@@ -6,7 +6,9 @@ Gigabyte B360M Aorus Pro
 Core i7 8700k
 RX570 8GB
 
-Download: https://github.com/toanbbpro/Hackintosh_B360M-Aorus-Pro_OpenCore0.7.6/releases/tag/iGPU
+Download: 
+- Latest (RX570 version): https://github.com/toanbbpro/Hackintosh_B360M-Aorus-Pro_OpenCore/releases/tag/RX570
+- 0.8.1 (iGPU version): https://github.com/toanbbpro/Hackintosh_B360M-Aorus-Pro_OpenCore/releases/tag/iGPU
 
 Config optimized by OCAuxiliaryTools latest. Tested on MacOS 12.5 and compatibility with older versions.
 
